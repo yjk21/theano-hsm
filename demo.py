@@ -6,8 +6,8 @@ from scipy.optimize import fmin_ncg
 
 random.seed(1)
 
-K = 5000 #nClasses
-N = 100050 #nSamples
+K = 5 #nClasses
+N = 100 #nSamples
 D = 4 #nFeatures
 
 #single precision for now
